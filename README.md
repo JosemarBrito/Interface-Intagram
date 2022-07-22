@@ -1,6 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Olá, fico feliz por ter você aqui em meu humilde repositório.
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Esse é o repositório é um projeto clone da pagina inicial do Instagram, feito em acomanhamento com a Dio.me e lecionado pela professora Gabriela.
+Aqui foram utilizados, além da montagem do esquelo em HTML e estilização em CSS, tambem utilizamos Flexbox, tentando o maximo deixar não somente parecido em sua interface, mas tambem na responsividade. 
 
 ### Os requisitos são:
 
