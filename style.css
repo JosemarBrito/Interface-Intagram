@@ -25,14 +25,15 @@ body {
     height: 100vh;
 }
 
-.instagram-phone {
+.tela-instalgram {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 50%;
+    
 }
 
-.instagram-phone img {
+.tela-instalgram img {
     height: 50rem;
 }
 
@@ -45,6 +46,7 @@ body {
     flex-direction: column;
     width: 50%;
     min-height: 34rem;
+    
 }
 
 .group {
@@ -53,9 +55,10 @@ body {
     align-items: center;
     flex-direction: column;
     background-color: #ffffff;
-    width: 100%;
+    width: 80%;
     padding: 1.3rem 0;
     border: 1px solid lightgray;
+    border-radius: 10px;
 }
 
 .group:nth-child(1) {
@@ -96,6 +99,7 @@ body {
 
 .link-blue {
     color: #0095f6;
+    font-weight: bold;
 }
 
 .get-the-app {
@@ -147,7 +151,7 @@ body {
         width: 90%;
     }
 
-    .instagram-phone {
+    .tela-instalgram {
         display: none;
     }
 
